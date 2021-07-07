@@ -1,4 +1,16 @@
 # ====================================================================================
+  # 📅 Isometric commit calendar
+  
+  # Enable or disable plugin
+  plugin_isocalendar:
+    description: Display an isometric view of your commits calendar
+    default: no
+  
+  # Set time window shown by isometric calendar
+  plugin_isocalendar_duration:
+    description: Set time window shown by isometric calendar
+    default: half-year
+# ====================================================================================
 # Action metadata
 name: Metrics
 on:
