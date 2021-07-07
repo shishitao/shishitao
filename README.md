@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishitao&theme=nord_dark) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishitao&theme=default)
+![Metrics](https://github.com/shishitao/shishitao/blob/main/github-metrics.svg)
 
