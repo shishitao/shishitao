@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Metrics](https://github.com/shishitao/shishitao/blob/main/github-metrics.svg)
 
-[![image](https://user-images.githubusercontent.com/85476205/124824874-8c4dbe80-df38-11eb-8c42-4c00b0e42862.png)](https://github.com/shishitao/seismic-stability)
+<!-- [![image](https://user-images.githubusercontent.com/85476205/124824874-8c4dbe80-df38-11eb-8c42-4c00b0e42862.png)](https://github.com/shishitao/seismic-stability) -->
