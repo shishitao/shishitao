@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishitao&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishitao&theme=nord_dark) -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishitao&theme=default)
 
